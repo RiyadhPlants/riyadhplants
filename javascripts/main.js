@@ -10,7 +10,7 @@ if (isMobile == "unknown") {
     window.location = 'plants://';
 
    setTimeout(function() {
-    window.location = 'https://dejanenspyra.github.io/riyadh.plants/';
+    window.location = 'https://riyadhplants.github.io/riyadhplants/';
    }, 30000);
   }
 
